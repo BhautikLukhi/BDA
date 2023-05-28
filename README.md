@@ -1,3 +1,3 @@
 # BDA_Assignments
 
-Refer to excercise02.pdf for assignment questions.
+Refer to exercise pdf files for assignment questions.
